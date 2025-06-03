@@ -1,6 +1,5 @@
 # Meeting Note – Milestone 2  
-**Date:** 2025-06-02  
-**Duration:** 25 min (09:00–09:25 PT)  
+
 **Attendees:**  
 - Me – Dev / Presenter  
 - Alice – Client PM  
@@ -35,6 +34,6 @@
 - **PR #5** approved by Alice at 09:18 PT.  
 - **Issue #4** auto-closed on merge.  
 - Vector-DB (FAISS / Chroma) upgrade scheduled for Milestone 3.  
-- Next check-in: **2025-06-16** (Milestone 3 mid-review).
+
 
 ---
